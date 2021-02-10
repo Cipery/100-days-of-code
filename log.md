@@ -15,3 +15,11 @@
 **Thoughts:** GitHub is kinda nice!
 
 **Link to work:** No link :|
+
+### Day 3: February 10th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Worked on CI/CD pipeline - finished it! Every change to master branch now builds and deploys new version of FatFucks to production! Also, after struggle with creating new ca-sln project, made it work! so tomorrow - cleanup of this project (mainly removing the angular part)
+
+**Thoughts:** WSL rocks!
+
+**Link to work:** No link :|
