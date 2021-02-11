@@ -23,3 +23,11 @@
 **Thoughts:** WSL rocks!
 
 **Link to work:** No link :|
+
+### Day 4: February 11th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Refactored project to use clean architecture on backend. Added one sound from 13th Warrior.
+
+**Thoughts:** Super tired! But still did it! 
+
+**Link to work:** This project is not public, so :( probably not the best project for this challenge?
