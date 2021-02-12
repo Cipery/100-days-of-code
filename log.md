@@ -31,3 +31,11 @@
 **Thoughts:** Super tired! But still did it! 
 
 **Link to work:** This project is not public, so :( probably not the best project for this challenge?
+
+### Day 5: February 12th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Bad day :/ I added IdentityServer yesterday and I really had.. I'm having a really hard time getting certificate to work in docker.. so I worked on that, with no success
+
+**Thoughts:** Frustrated? No! But tired.. will work more than a hour tomorrow.
+
+**Link to work:** This project is not public, so :( probably not the best project for this challenge?
