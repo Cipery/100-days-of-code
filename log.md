@@ -39,3 +39,12 @@
 **Thoughts:** Frustrated? No! But tired.. will work more than a hour tomorrow.
 
 **Link to work:** This project is not public, so :( probably not the best project for this challenge?
+
+### Day 6: February 13th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Another day that did not go as well as I wanted it to go. Had some success with the certificates locally, but I havent managed to get it working on remote server. I hope I'll be able to make it work tomorrow
+
+**Thoughts:** Do I really need certs and identity server? Should really think about that tomorrow. I could just generate JWT and be done with that. In the other hand, this could be a nice way ho to learn about identity server
+
+**Link to work:** This project is not public, so :( probably not the best project for this challenge?
+
