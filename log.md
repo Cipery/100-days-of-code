@@ -48,3 +48,11 @@
 
 **Link to work:** This project is not public, so :( probably not the best project for this challenge?
 
+### Day 7: February 14th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Https/Certificate hell - After hours of research and try/error, I have managed to understand and half-ass implement correct https handling for the server.
+
+**Thoughts:** I wish I went to bed sooner
+
+**Link to work:** This project is not public, so :( probably not the best project for this challenge?
+
