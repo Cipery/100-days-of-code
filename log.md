@@ -56,3 +56,10 @@
 
 **Link to work:** This project is not public, so :( probably not the best project for this challenge?
 
+### Day 8: February 15th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: I decided not to remove IdentityServer, as it is something that I am avoiding to learn for such a long time.. I will use this "challenge" to finally learn something about it! 
+
+**Thoughts:** Super tired again! Also, IdentityServer is a huge overkill.. I might remove it in following days, but first, I just want it to work!
+
+**Link to work:** :>
