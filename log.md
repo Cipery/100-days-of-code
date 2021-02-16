@@ -63,3 +63,11 @@
 **Thoughts:** Super tired again! Also, IdentityServer is a huge overkill.. I might remove it in following days, but first, I just want it to work!
 
 **Link to work:** :>
+
+### Day 9: February 16th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Hah, not only I removed IdentityServer, I removed the clean architecture template alltogether! And used a different one, from https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%e2%80%8b/ . It should fit better for my type of project
+
+**Thoughts:** No thoughts today.. glad I did some work
+
+**Link to work:** :>
