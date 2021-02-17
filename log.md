@@ -71,3 +71,11 @@
 **Thoughts:** No thoughts today.. glad I did some work
 
 **Link to work:** :>
+
+### Day 10: February 17th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Good day today! Lot's of work done on adding entities, setting up mappings, project rearrangements/cleanup. 
+
+**Thoughts:** Viking prayer!
+
+**Link to work:** :>
