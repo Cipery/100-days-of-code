@@ -79,3 +79,11 @@
 **Thoughts:** Viking prayer!
 
 **Link to work:** :>
+
+### Day 11: February 18th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Continued work on client / server data communication, did not managed to finish it :( But sh*t's on!
+
+**Thoughts:** Viking prayer!
+
+**Link to work:** :>
