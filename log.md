@@ -88,7 +88,7 @@
 
 **Link to work:** :>
 
-### Day 11: February 18th, 2021 - TlustyZmrdi.net
+### Day 12: February 19th, 2021 - TlustyZmrdi.net
 
 **Today's Progress**: Added loading of quotes server side. Files server side. Client now loads all metadata and data from server. Added Sentry.io
 
