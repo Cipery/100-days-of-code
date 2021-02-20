@@ -96,3 +96,12 @@
 
 **Link to work:** :>
 
+### Day 13: February 20th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Today I've added lots of quotes from one popular TV show, reworked data loading from server a little bit, added instant random quote button. 
+
+**Thoughts:** I think I should not store the data files in Git :> Tomorrow - think about uploading data directly to server
+
+**Link to work:** :>
+
+
