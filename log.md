@@ -104,4 +104,11 @@
 
 **Link to work:** :>
 
+### Day 14: February 21th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Pretty productive day today. docker run had lots of arguments, so I have created docker-compose file and now I use docker-compose instead of docker run. Also remove (possibly) copyright protected materials from git and moved it to folder on server, that is mounted as volume to container in docker-compose. Redone sidebar so it now correctly works on mobile. Also started another project for monitoring/controlling large number of zigbee devices. Also in BlazorWASM!
+
+**Thoughts:** Sunday Funday!
+
+**Link to work:** :>
 
