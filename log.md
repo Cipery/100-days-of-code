@@ -112,3 +112,10 @@
 
 **Link to work:** :>
 
+### Day 15: February 22th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Content day - did not code as much today, I spent most time on adding content. But thought about database - I will use MySQL running in docker to store metadata about quotes (name, description, times played). But thats for another time
+
+**Thoughts:** Not feeling well.. at all :/ 
+
+**Link to work:** :>
