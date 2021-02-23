@@ -119,3 +119,11 @@
 **Thoughts:** Not feeling well.. at all :/ 
 
 **Link to work:** :>
+
+### Day 16: February 23th, 2021 - TlustyZmrdi.net
+
+**Today's Progress**: Started working on project two - a Blazor Server side app that would allow me to controll a large number of zigbee smart power plugs, with energy monitoring (so energy charts included!). Basically just created the project and tinkered with blazor<->mosqitto<->zigbee2mqtt
+
+**Thoughts:** Feeling rly bad today, hope it's not.. you know what.. but feeling good about this project!
+
+**Link to work:** :>
