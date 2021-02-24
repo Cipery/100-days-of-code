@@ -127,3 +127,11 @@
 **Thoughts:** Feeling rly bad today, hope it's not.. you know what.. but feeling good about this project!
 
 **Link to work:** :>
+
+### Day 17: February 24th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Feeling sick, absent from work, slept for most of the day, still managed to work on this second project for over one hour! Created the project from template, upgraded to net5, made auth work and chosen https://blazority.com as the lib that I will use to create nice user interface
+
+**Thoughts:** Blazor is just.. the best thing
+
+**Link to work:** :>
