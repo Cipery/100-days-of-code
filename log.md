@@ -135,3 +135,11 @@
 **Thoughts:** Blazor is just.. the best thing
 
 **Link to work:** :>
+
+### Day 18: February 25th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Managed to connect to the zigbee coordinator, read data from it, use MediatR to propagate it thru layers of the app. Frontend now shows list of connected devices and list of all messages received and sent =) A good day!
+
+**Thoughts:** I'm feeling kinda better today!
+
+**Link to work:** :>
