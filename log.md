@@ -151,3 +151,11 @@
 **Thoughts:** I'm feeling kinda better today!
 
 **Link to work:** :>
+
+### Day 20: February 27th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Not much coding today (I know I should code!), spent two hours setting up ssh tunnel that will be used for both production and debugging.
+
+**Thoughts:** Jaffa!
+
+**Link to work:** :>
