@@ -143,3 +143,11 @@
 **Thoughts:** I'm feeling kinda better today!
 
 **Link to work:** :>
+
+### Day 19: February 26th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: I'll keep it short today - I've managed to deploy the prototype app to productin, and after lots of linux struggle, it works!!!
+
+**Thoughts:** I'm feeling kinda better today!
+
+**Link to work:** :>
