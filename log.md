@@ -159,3 +159,11 @@
 **Thoughts:** Jaffa!
 
 **Link to work:** :>
+
+### Day 21: February 28th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Added https://www.hangfire.io/ with commands and queries required to publish messages to MQTT topics, and added flow to read them back. So far, received data is not mapped to the device
+
+**Thoughts:** Last day of February. Three week lockdown of Czechia starts tomorrow..
+
+**Link to work:** :>
