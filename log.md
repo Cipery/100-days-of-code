@@ -167,3 +167,11 @@
 **Thoughts:** Last day of February. Three week lockdown of Czechia starts tomorrow..
 
 **Link to work:** :>
+
+### Day 22: February 28th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Spent most of my time debugging stuck zigbee devices :(
+
+**Thoughts:** Gotta have this in beta stage before friday!
+
+**Link to work:** :>
