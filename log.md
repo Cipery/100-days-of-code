@@ -168,9 +168,17 @@
 
 **Link to work:** :>
 
-### Day 22: February 28th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+### Day 22: March 1st, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
 
 **Today's Progress**: Spent most of my time debugging stuck zigbee devices :(
+
+**Thoughts:** Gotta have this in beta stage before friday!
+
+**Link to work:** :>
+
+### Day 23: March 2nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Lot's of work done today! Finally fetching power plug data, and real-time displaying the data in Dashboard! But - this app should present realtime data and I am already starting to feel like it's gonna be Hellheim :( Thinking about using Stl.Fusion
 
 **Thoughts:** Gotta have this in beta stage before friday!
 
