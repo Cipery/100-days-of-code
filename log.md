@@ -183,3 +183,11 @@
 **Thoughts:** Gotta have this in beta stage before friday!
 
 **Link to work:** :>
+
+### Day 24: March 3nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Mainly worked with Hangfire - added mqtt client reconnects, periodical device fetching. Also improved error handling so the app does not crash so easily :))
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
