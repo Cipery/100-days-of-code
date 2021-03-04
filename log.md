@@ -191,3 +191,11 @@
 **Thoughts:** STL.Fusion - on the way?
 
 **Link to work:** :>
+
+### Day 25: March 4nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Focused on Github Actions -> automatic docker image build, push to registry, then pull on server and docker-compose up -d :) Works like a charm! Until it breaks, I guess.
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
