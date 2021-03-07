@@ -184,7 +184,7 @@
 
 **Link to work:** :>
 
-### Day 24: March 3nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+### Day 24: March 3rd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
 
 **Today's Progress**: Mainly worked with Hangfire - added mqtt client reconnects, periodical device fetching. Also improved error handling so the app does not crash so easily :))
 
@@ -192,7 +192,7 @@
 
 **Link to work:** :>
 
-### Day 25: March 4nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+### Day 25: March 4th 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
 
 **Today's Progress**: Focused on Github Actions -> automatic docker image build, push to registry, then pull on server and docker-compose up -d :) Works like a charm! Until it breaks, I guess.
 
@@ -200,7 +200,7 @@
 
 **Link to work:** :>
 
-### Day 26: March 5nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+### Day 26: March 5th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
 
 **Today's Progress**: Posting update a day late, but worked on the app for ~4 hours =) Autodeploy works flawlessly, fixed a ton of bugs, and the app just works really nicely, power plugs report their state, can be turned off/on.. just sweet :)
 
@@ -208,9 +208,17 @@
 
 **Link to work:** :>
 
-### Day 27: March 6nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+### Day 27: March 6th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
 
 **Today's Progress**: Refactored some frontend code to their own components, added some more static information to the power plug detail pages 
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
+
+### Day 28: March 7th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Spent my whole "work time" on STL.Fusion research. It seems like something really helpfull and powerful, but the learning curve is so steeeep :(
 
 **Thoughts:** STL.Fusion - on the way?
 
