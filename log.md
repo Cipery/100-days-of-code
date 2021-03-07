@@ -207,3 +207,11 @@
 **Thoughts:** STL.Fusion - on the way?
 
 **Link to work:** :>
+
+### Day 27: March 6nd, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Refactored some frontend code to their own components, added some more static information to the power plug detail pages 
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
