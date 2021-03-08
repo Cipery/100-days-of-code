@@ -223,3 +223,11 @@
 **Thoughts:** STL.Fusion - on the way?
 
 **Link to work:** :>
+
+### Day 29: March 8th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Again: I've spent my whole "work time" on STL.Fusion research. I have created a sample project and toyed with the thing.. it's works like magic.. but seems complicated. However, the dev is responsive and really helpful!
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
