@@ -231,3 +231,11 @@
 **Thoughts:** STL.Fusion - on the way?
 
 **Link to work:** :>
+
+### Day 30: March 9th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor
+
+**Today's Progress**: Today I have moved code from non-STL.Fusion project to the STL.Fusion based project. Fusion is not implemented yet, but the project compiles and runs without any issues. So that's a good place to be before implementing this framework
+
+**Thoughts:** STL.Fusion - on the way?
+
+**Link to work:** :>
