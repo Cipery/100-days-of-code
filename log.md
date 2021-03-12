@@ -247,3 +247,11 @@
 **Thoughts:** :<
 
 **Link to work:** :>
+
+### Day 32: March 12th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor + Fusion
+
+**Today's Progress**: Skipped a day!!! My first skip :/ Today I have studied STL.Fusion a bit more, added lots of code, deleted 95% of the added code because it sucked!! Left only the "Updated X seconds ago", that is currently calculated/updated on server side. But I think I'll do it client (javascript side) soon.
+
+**Thoughts:** Even though its my first "skip" in 32 day, it feels bad man :(
+
+**Link to work:** :>
