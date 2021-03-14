@@ -255,3 +255,19 @@
 **Thoughts:** Even though its my first "skip" in 32 day, it feels bad man :(
 
 **Link to work:** :>
+
+### Day 33: March 13th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor + Fusion
+
+**Today's Progress**: Today was a debugging / deployment.. Who am I kidding? Debugging&Development on Production! No new features, just bug fixing. 
+
+**Thoughts:** 
+
+**Link to work:** :>
+
+### Day 34: March 14th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor + Fusion
+
+**Today's Progress**: I made things purdier today :> I suck at front-end stuff, luckily MudBlazor is really a great library and it makes things way easier for us backend devs
+
+**Thoughts:** 
+
+**Link to work:** :>
