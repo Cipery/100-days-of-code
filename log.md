@@ -271,3 +271,11 @@
 **Thoughts:** 
 
 **Link to work:** :>
+
+### Day 35: March 14th, 2021 - Zigbee2Mqtt device monitoring in .Net 5 + Blazor + Fusion
+
+**Today's Progress**: I have worked on user experience - nicer cards, more descriptive texts, less information displayed and yet more info at the same time! 
+
+**Thoughts:** 
+
+**Link to work:** :>
